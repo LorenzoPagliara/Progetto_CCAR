@@ -34,7 +34,7 @@ Per visualizzare il diagramma di fase del sistema:
 
 1. scaricare [PhasePlane](https://it.mathworks.com/matlabcentral/fileexchange/91705-phase-plane-and-slope-field-apps?s_tid=srchtitle_Phase%2520Plane_2);
 2. avviare PhasePlane da Apps;
-3. caricare il sistema da `Custom library -> load` e caricare il file `./Phase_Portrait/TranscriptionalRegulation.mat`;
+3. caricare il sistema da `Custom library -> load` e selezionare il file `./Phase_Portrait/TranscriptionalRegulation.mat`;
 4. impostare i parametri del sistema `Custom library -> RegolazioneTrascrizionale`.
 
 
